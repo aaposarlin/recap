@@ -1,4 +1,5 @@
 import Header from "./header"
+import CalcForm from "./CalcForm"
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
   return (
     <div>
       <Header />
+      <CalcForm />
     </div>
   )
 }
